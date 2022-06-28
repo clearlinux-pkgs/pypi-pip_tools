@@ -4,7 +4,7 @@
 #
 Name     : pypi-pip_tools
 Version  : 6.6.2
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/dc/21/af0d14ce1cbe9e2e88ccf73061251cc6a84d8d87650a3e75be040a0be4fe/pip-tools-6.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/dc/21/af0d14ce1cbe9e2e88ccf73061251cc6a84d8d87650a3e75be040a0be4fe/pip-tools-6.6.2.tar.gz
 Summary  : pip-tools keeps your pinned dependencies fresh.
@@ -85,7 +85,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656388212
+export SOURCE_DATE_EPOCH=1656394399
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
