@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pip_tools
-URL = https://files.pythonhosted.org/packages/cc/1c/dadd465f327dbe49d77d8d3bcd651607d3169a04ce06c7bf86fec8005425/pip-tools-6.9.0.tar.gz
+URL = https://files.pythonhosted.org/packages/b7/6b/e16d0ac0fed917b9575dc2b324866a7e2fb80d328d8aa285ddb89d1199a1/pip-tools-6.12.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
