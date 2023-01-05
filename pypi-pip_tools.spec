@@ -4,7 +4,7 @@
 #
 Name     : pypi-pip_tools
 Version  : 6.12.1
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/b7/6b/e16d0ac0fed917b9575dc2b324866a7e2fb80d328d8aa285ddb89d1199a1/pip-tools-6.12.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b7/6b/e16d0ac0fed917b9575dc2b324866a7e2fb80d328d8aa285ddb89d1199a1/pip-tools-6.12.1.tar.gz
 Summary  : pip-tools keeps your pinned dependencies fresh.
