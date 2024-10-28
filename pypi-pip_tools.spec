@@ -7,7 +7,7 @@
 #
 Name     : pypi-pip_tools
 Version  : 7.4.1
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/1a/87/1ef453f10fb0772f43549686f924460cc0a2404b828b348f72c52cb2f5bf/pip-tools-7.4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1a/87/1ef453f10fb0772f43549686f924460cc0a2404b828b348f72c52cb2f5bf/pip-tools-7.4.1.tar.gz
 Summary  : pip-tools keeps your pinned dependencies fresh.
